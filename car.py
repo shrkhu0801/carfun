@@ -1,7 +1,7 @@
 # Define the first function
 
 print("func1() is missing")
-
+print("this is new line")
 
 print("this is extra text")
 
